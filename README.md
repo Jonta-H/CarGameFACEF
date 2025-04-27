@@ -1,4 +1,4 @@
-<link rel="stylessheet" href="style.css">
+<link rel="stylesheet" href="style.css">
 <h1>SpaceShooter Game 🚀</h1>
 
 
