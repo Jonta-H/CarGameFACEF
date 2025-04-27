@@ -34,6 +34,6 @@ Se você encontrar problemas ou tiver sugestões, abra uma issue e teremos praze
 <h3>Banco de dados</h3>
 <div class="img">
   <p>
-    <img src="Prints/Firebase.png" width="500px"><img src="Prints/Database_rules.png" width="500px">
+    <img src="Prints/Firebase.png"><img src="Prints/Database_rules.png">
   </p>
 </div>
