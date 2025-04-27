@@ -1,4 +1,3 @@
-<link rel="stylesheet" href="style.css">
 <h1>SpaceShooter Game 🚀</h1>
 
 
@@ -28,12 +27,11 @@ Mostre suas habilidades de programação com estilo! Utilize nossos ícones de l
 Este é um projeto de código aberto e adoraríamos receber contribuições da comunidade de desenvolvedores! Sinta-se à vontade para fazer fork deste repositório, trabalhar em melhorias e enviar pull requests para análise.
 
 <h3>Jogo</h3>
-
-Se você encontrar problemas ou tiver sugestões, abra uma issue e teremos prazer em discuti-las.
+<p>
+  <img src="
+</p>
 
 <h3>Banco de dados</h3>
-<div class="img">
   <p>
-    <img src="Prints/Firebase.png"><img src="Prints/Database_rules.png">
+     <img src="Prints/Firebase.png" width="500px">
   </p>
-</div>
