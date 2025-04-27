@@ -1,44 +1,35 @@
 # SpaceShooter Game🚀
 
 
+## Sobre o jogo 🚀
 
-## Menu 🚀
+O jogo é um projeto acadêmico, desenvolvido utilizando das ferramentas disponíveis na versão gratuita do Construct 3, uma plataforma online de desenvolvimento, programação e publicação de jogos 2D. Utiliza ainda do banco de dados do Firebase para armazenamento de pontuações.
 
-- [Templates de Perfil](https://github.com/DiasEllen26/template-readme/tree/main/perfil)
-- [Templates de Repositório](https://github.com/DiasEllen26/template-readme/tree/main/repositorio)
-- [Status](https://github.com/DiasEllen26/template-readme/blob/main/cards/status.md)
-- [Linguagens](https://github.com/DiasEllen26/template-readme/blob/main/cards/linguagem.md)
-- [Contato](https://github.com/DiasEllen26/template-readme/blob/main/icones/sociais.md)
-- [Skills](https://github.com/DiasEllen26/template-readme/blob/main/icones/skills.md)
+## Como jogar 🙋‍♂️
 
-## Templates de Perfil 🙋‍♂️
+Movimente e atire com sua nave. Seja ágil! Não permita que as naves inimigas cheguem até você. Destrua-as.
+Utilize as setas direcionais do teclado para se mover, o botão esquerdo do mouse para atirar e, quando carregado, use o botão direito para ativar seu escudo e se proteger contras as ameaças.
 
-Você é único e seu perfil do GitHub também deve ser! Explore nosso diretório de [templates de perfil](https://github.com/DiasEllen26/template-readme/tree/main/perfil) para encontrar exemplos incríveis que o ajudarão a se destacar da multidão. Mostre ao mundo suas habilidades, projetos em destaque e muito mais!
+## Firebase 📚
 
-## Templates de Repositório 📚
+Integrado ao Firebase, o jogo utiliza dos recursos de armazenamento e sincronização de dados em tempo real para coletar a pontuação do jogador, possibilitando o registro com seu nome no Ranking de pontuações. O envio e recebimento é feito através da função AJAX do próprio Construct, que permite ao jogo solicitar, bem como, enviar informações para outras páginas da web.
 
-Cansado de READMEs chatos e monótonos? Dê uma olhada nos nossos [templates de repositório](https://github.com/DiasEllen26/template-readme/tree/main/repositorio) e deixe seus projetos brilharem! Nossos modelos oferecem uma estrutura flexível e divertida para documentar seu projeto, incluindo seções para descrição, instalação, uso, contribuição e licença.
+## Desenvolvimento ✨
 
-## Status ✨
 
-Deixe o mundo saber como está o seu projeto! Adicione cards de status e informe o estado do build, cobertura de testes, análise de código e muito mais. Os cards de status são uma maneira divertida e visual de fornecer informações importantes sobre o seu projeto.
 
-## Linguagens 🚀
+### Assets/Sprites 🚀
 
 Mostre suas habilidades de programação com estilo! Utilize nossos ícones de linguagens para destacar as tecnologias envolvidas em seus projetos. Esses ícones são amplamente reconhecidos pela comunidade de desenvolvedores e adicionam um toque especial ao seu README.
 
----
-
-## Contribuição 🤝
+## Prints 🤝
 
 Este é um projeto de código aberto e adoraríamos receber contribuições da comunidade de desenvolvedores! Sinta-se à vontade para fazer fork deste repositório, trabalhar em melhorias e enviar pull requests para análise.
 
+### Jogo
+
 Se você encontrar problemas ou tiver sugestões, abra uma issue e teremos prazer em discuti-las.
 
-Lembre-se de seguir as diretrizes de contribuição do projeto e respeitar o código de conduta.
+### Banco de dados
 
-Junte-se a nós para tornar este projeto ainda mais incrível!
 
----
-
-Aproveite os templates e divirta-se criando READMEs incríveis! 😄✨
