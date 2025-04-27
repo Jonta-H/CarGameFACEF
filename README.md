@@ -1,4 +1,4 @@
-<link rel="stylessheet" href="">
+<link rel="stylessheet" href="style.css">
 <h1>SpaceShooter Game 🚀</h1>
 
 
@@ -32,7 +32,7 @@ Este é um projeto de código aberto e adoraríamos receber contribuições da c
 Se você encontrar problemas ou tiver sugestões, abra uma issue e teremos prazer em discuti-las.
 
 <h3>Banco de dados</h3>
-<div justify-content="center" text-align="center">
+<div class="img">
   <p>
     <img src="Prints/Firebase.png" width="500px"><img src="Prints/Database_rules.png" width="500px">
   </p>
