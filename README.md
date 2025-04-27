@@ -28,10 +28,22 @@ Este é um projeto de código aberto e adoraríamos receber contribuições da c
 
 <h3>Jogo</h3>
 <p>
-  <img src="
+  <div align="center">
+   <Table>
+      <tr><td><img src="Prints/layout_allobjects.png" width="900"></td></tr>
+      <tr><td align="center">Layout Principal</td></tr>
+  </Table>
+  <Table>
+      <tr><td><img src="Prints/layout_allobjects.png" width="900"></td></tr>
+      <tr><td align="center">Layout Principal</td></tr>
+  </Table>
+  <Table>
+      <tr><td><img src="Prints/layout_allobjects.png" width="900"></td></tr>
+      <tr><td align="center">Layout Principal</td></tr>
+  </Table>
+  </div>
 </p>
-
 <h3>Banco de dados</h3>
-  <p>
-     <img src="Prints/Firebase.png" width="500px">
-  </p>
+<p>
+    <br> <img src="Prints/Firebase.png" width="500" align="center"> <img src="Prints/Database_rules.png" width="500" align="center"></br>
+</p>
