@@ -1,6 +1,7 @@
 <h1 align="center">SpaceShooter Game 🚀</h1>
+<p align="center">Links para acesso</p>
+<p align="center">Itch.io: https://jontah.itch.io/spaceshooter </p>
 <h2 align="center">Sobre o jogo 🚀</h2>
-
 <p align="center">O jogo é um projeto acadêmico, desenvolvido utilizando das ferramentas disponíveis na versão gratuita do Construct 3, uma plataforma online de desenvolvimento, programação e publicação de jogos 2D. Utiliza ainda do banco de dados do Firebase para armazenamento de pontuações.</p>
 
 <h2 align="center">Como jogar 🙋‍♂️</h2>
