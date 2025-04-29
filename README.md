@@ -5,7 +5,7 @@
 <h2 align="center">Como jogar 🚀</h2>
 
 <p align="center">Movimente e atire com sua nave. Seja ágil! Não permita que as naves inimigas cheguem até você. Destrua-as.
-<br>Mova-se através das setas direcionais do teclado e utilize os botões do mouse para atirar e ativar seu escudo. </br></p>
+<br>Mova-se através das setas direcionais e utilize o mouse para atirar e ativar seu escudo. </br></p>
 
 <h2 align="center">Sobre o jogo 🚀</h2>
 
@@ -18,23 +18,38 @@
 <h2 align="center">Efeitos e funções</h2>
 
 <p align="center">A fim de tornar a gameplay mais dinâmica e divertida, foram adicionadas ao jogo algumas funcionalidades e efeitos como:</p>
-  <ul align="center" list-style="square">
+<p align="center">
+  <ul>
+    <li>Spawn exponencial e aleatório de naves</li>
     <li>Naves destruídas explodem gerando partículas e causando um tremor na tela</li>
     <li>Surgimento ocasional de orbes pela tela que, quando atingidos, causarão um flash e destruírão todos os inimigos</li>
     <li>Naves inimigas possuem atributos diferentes, sendo a maior delas mais resistente e a menor mais rápida, movimentando-se de forma única</li>
     <li>Um escudo pessoal se carrega ao durante o jogo, que pode ser ativado protegendo o jogador</li>
   </ul>
+</p>
 
 <h2 align="center">Assets/Sprites 🚀</h2>
 
 <p align="center">Durante o desenvolvimento do projeto, foram utilizados diversos modelos para representação de naves, efeitos, partículas, cenário e HUD, todos esses feitos à mão.
 <br>Alguns deles:</br>
 </p>
+<table>
+  <tr>
+    <td><img src="Assets/player.png" width="300"></td>
+    <td><img src="Assets/enemy2.png" width="300"></td>
+    <td><img src="Assets/player_shield.png" width="300"></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
 
 <h2 align="center">Prints 🚀</h2>
 
-<p align="center">Abaixo estão algumas imagens que mostram um pouco sobre o desenvolvimento e funcionamento do jogo, além também do Banco de dados e suas configurações.</p>
+<p align="center">Abaixo estão algumas imagens que mostram um pouco sobre o desenvolvimento e funcionamento do jogo, além também do Banco de dados e sua configuração.</p>
 
 <h3 align="center">Jogo</h3>
   <div align="center">
