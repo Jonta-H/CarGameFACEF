@@ -9,22 +9,21 @@
 
 <h2 align="center">Sobre o jogo 🚀</h2>
 
-<p align="center">O jogo é um projeto acadêmico, desenvolvido utilizando das ferramentas disponíveis na versão gratuita do Construct 3, uma plataforma online de desenvolvimento, programação e publicação de jogos 2D.</p>
+<p align="center">O jogo é um projeto acadêmico desenvolvido utilizando das ferramentas disponíveis na versão gratuita do Construct 3, uma plataforma online de desenvolvimento, programação e publicação de jogos 2D. Está publicado no site do Itch.io para que qualquer um jogue.</p>
 
 <h2 align="center">Firebase 🚀</h2>
 
-<p>Integrado ao Firebase, o jogo utiliza dos recursos de armazenamento e sincronização de dados em tempo real para coletar a pontuação do jogador, possibilitando o registro com seu nome no Ranking de pontuações. O envio e recebimento é feito através da função AJAX disponível no Construct, que permite ao jogo solicitar e enviar informações para outras páginas da web.</p>
+<p align="center">Integrado ao Firebase, o jogo utiliza dos recursos de armazenamento e sincronização de dados em tempo real para coletar a pontuação do jogador, possibilitando o registro com seu nome no Ranking de pontuações. O envio e recebimento é feito através da função AJAX disponível no Construct, que permite ao jogo solicitar e enviar informações para outras páginas da web.</p>
 
-<h2>Funcionalidades</h2>
+<h2 align="center">Efeitos e funções</h2>
 
-<p>A fim de tornar a gameplay mais dinâmica e divertida, foram pensadas</p>
-<p>
-<ul>
-<li>Quando destruídas, as naves explodem gerando partículas e causando um tremor na tela</li>
-<li>Ocasionalmente aparecerão orbes espalhados aleatoriamente pela tela que, quando atingidos, causará um flash e destruíra todos os inimigos</li>
-<li>As naves inimigas possuem atributos diferentes, sendo a maior delas mais resistente e a menor mais rápida, movimentando-se de forma única</li>
-</ul>
-</p>
+<p align="center">A fim de tornar a gameplay mais dinâmica e divertida, foram adicionadas ao jogo algumas funcionalidades e efeitos como:</p>
+  <ul align="center" list-style="square">
+    <li>Naves destruídas explodem gerando partículas e causando um tremor na tela</li>
+    <li>Surgimento ocasional de orbes pela tela que, quando atingidos, causarão um flash e destruírão todos os inimigos</li>
+    <li>Naves inimigas possuem atributos diferentes, sendo a maior delas mais resistente e a menor mais rápida, movimentando-se de forma única</li>
+    <li>Um escudo pessoal se carrega ao durante o jogo, que pode ser ativado protegendo o jogador</li>
+  </ul>
 
 <h2 align="center">Assets/Sprites 🚀</h2>
 
