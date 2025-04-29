@@ -15,6 +15,17 @@
 
 <p>Integrado ao Firebase, o jogo utiliza dos recursos de armazenamento e sincronização de dados em tempo real para coletar a pontuação do jogador, possibilitando o registro com seu nome no Ranking de pontuações. O envio e recebimento é feito através da função AJAX disponível no Construct, que permite ao jogo solicitar e enviar informações para outras páginas da web.</p>
 
+<h2>Funcionalidades</h2>
+
+<p>A fim de tornar a gameplay mais dinâmica e divertida, foram pensadas</p>
+<p>
+<ul>
+<li>Quando destruídas, as naves explodem gerando partículas e causando um tremor na tela</li>
+<li>Ocasionalmente aparecerão orbes espalhados aleatoriamente pela tela que, quando atingidos, causará um flash e destruíra todos os inimigos</li>
+<li>As naves inimigas possuem atributos diferentes, sendo a maior delas mais resistente e a menor mais rápida, movimentando-se de forma única</li>
+</ul>
+</p>
+
 <h2 align="center">Assets/Sprites 🚀</h2>
 
 <p align="center">Durante o desenvolvimento do projeto, foram utilizados diversos modelos para representação de naves, efeitos, partículas, cenário e HUD, todos esses feitos à mão.
