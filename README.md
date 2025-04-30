@@ -57,7 +57,7 @@
 
 <h2 align="center">Prints 👾</h2>
 
-<p align="center">Abaixo estão algumas imagens que mostram um pouco do desenvolvimento e funcionamento do jogo, além também do Banco de dados e sua configuração.</p>
+<p align="center">Abaixo estão algumas imagens que mostram um pouco do desenvolvimento e funcionamento do jogo, além do Banco de dados e sua configuração.</p>
 
 <h3 align="center">Jogo</h3>
   <div align="center">
