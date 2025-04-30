@@ -1,6 +1,6 @@
 <h1 align="center">SpaceShooter Game 🚀</h1>
 <p align="center"><img src="Prints/gifGame.gif" width="500">
-<br>Jogo: https://jontah.itch.io/spaceshooter </br></p>
+<br>https://jontah.itch.io/spaceshooter</br></p>
 
 <h2 align="center">Como jogar 🕹</h2>
 
