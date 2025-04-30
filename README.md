@@ -104,7 +104,7 @@
     </tr>
   </Table>
   <table>
-    <tr><td><img src="Prints/shield_bar.gif" width="400"></td></tr>
+    <tr><td><img src="Assets/shield_bar.gif" width="400"></td></tr>
     <tr align="center"><td>Barra do escudo</td></tr>
   </table>
   <Table>
