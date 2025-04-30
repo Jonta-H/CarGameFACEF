@@ -127,6 +127,14 @@
     <tr align="center"><td colspan="2"><img src="Prints/variables.png" width="700"></td></tr>
     <tr align="center"><td colspan="2">Variáveis</td></tr>
   </Table>
+    <table>
+      <tr align="center">
+        <td><img src="Prints/itch.io.png" width="700"></td>
+      </tr>
+      <tr align="center">
+        <td>Hospedado no Itch.io</td>
+      </tr>
+    </table>
 </div>
 <h3 align="center">Banco de dados</h3>
 <div align="center">
