@@ -9,11 +9,8 @@
 
 <h2 align="center">Sobre o jogo 🚀</h2>
 
-<p align="center">O jogo é um projeto acadêmico desenvolvido utilizando das ferramentas disponíveis na versão gratuita do Construct 3, uma plataforma online de desenvolvimento, programação e publicação de jogos 2D. Está publicado no site do Itch.io para que qualquer um jogue.</p>
-
-<h2 align="center">Firebase 🚀</h2>
-
-<p align="center">Integrado ao Firebase, o jogo utiliza dos recursos de armazenamento e sincronização de dados em tempo real para coletar a pontuação do jogador, possibilitando o registro com seu nome no Ranking de pontuações. O envio e recebimento é feito através da função AJAX disponível no Construct, que permite ao jogo solicitar e enviar informações para outras páginas da web.</p>
+<p align="center">O jogo é um projeto acadêmico desenvolvido para o 1° Semestre de Sistemas de Informação na Uni-FACEF. Foram utilizadas as ferramentas disponíveis na versão gratuita do Construct 3, uma plataforma online de desenvolvimento, programação e publicação de jogos 2D. O objetivo do jogo é simples: sobreviver o máximo possível sem que os inimigos cheguem até você. Devido as limitações da plataforma, a ideia era criar algo não muito elaborado e ao mesmo tempo divertido, que tivesse um sistema capaz de contabilizar a pontuação do jogador a fim de salvá-la no Banco de Dados do Firebase, que também faz parte do projeto. 
+Está publicado no site do Itch.io para que qualquer um jogue. Pode ser acessado clicando <a aqui.</p>
 
 <h2 align="center">Efeitos e funções</h2>
 
@@ -27,6 +24,12 @@
     <li>Um escudo pessoal se carrega ao durante o jogo, que pode ser ativado protegendo o jogador</li>
   </ul>
 </p>
+
+<h2 align="center">Firebase 🚀</h2>
+
+<p align="center">Integrado ao Firebase, o jogo utiliza dos recursos de armazenamento e sincronização de dados em tempo real para coletar a pontuação do jogador, possibilitando o registro com seu nome no Ranking de pontuações. O envio e recebimento é feito através da função AJAX disponível no Construct, que permite ao jogo solicitar e enviar informações para outras páginas da web.</p>
+
+
 
 <h2 align="center">Assets/Sprites 🚀</h2>
 
