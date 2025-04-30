@@ -1,27 +1,31 @@
 <h1 align="center">SpaceShooter Game 🚀</h1>
-<p align="center">Link para acesso</p>
-<p align="center">Itch.io: https://jontah.itch.io/spaceshooter </p>
+<p align="center">Jogo: https://jontah.itch.io/spaceshooter </p>
 
 <h2 align="center">Como jogar 🚀</h2>
 
-<p align="center">Movimente e atire com sua nave. Seja ágil! Não permita que as naves inimigas cheguem até você. Destrua-as.
-<br>Mova-se através das setas direcionais e utilize o mouse para atirar e ativar seu escudo. </br></p>
+<p align="center">Movimente e atire com sua nave. Seja ágil! Não permita que as naves inimigas cheguem até você. Destrua-as.</p>
+<p align="center">Mova-se através das setas direcionais e utilize o mouse para atirar e ativar seu escudo.</p>
 
 <h2 align="center">Sobre o jogo 🚀</h2>
 
-<p align="center">O jogo é um projeto acadêmico desenvolvido para o 1° Semestre de Sistemas de Informação no Uni-FACEF. Foram utilizadas as ferramentas disponíveis na versão gratuita do Construct 3, uma plataforma online de desenvolvimento, programação e publicação de jogos 2D. O objetivo do jogo é simples: sobreviver o máximo possível sem que os inimigos cheguem até você. Devido as limitações da plataforma, a ideia era criar algo simples, que fosse ao mesmo tempo divertido, e que tivesse um sistema capaz de contabilizar a pontuação do jogador a fim de salvá-la no Banco de Dados do Firebase, que também faz parte do projeto. 
-Está publicado no site do Itch.io para que qualquer um jogue. Pode ser acessado clicando <a aqui.</p>
+<p align="center">Este jogo foi desenvolvido como parte de um projeto acadêmico para o 1º semestre do curso de Sistemas de Informação do Uni-FACEF. Utilizou-se a versão gratuita do Construct 3, uma plataforma online voltada ao desenvolvimento, programação e publicação de jogos 2D. 
+<p align="center">O objetivo do jogo é simples: sobreviver o maior tempo possível sem permitir que os inimigos alcancem você.</p>
+<p align="center">A proposta era criar uma experiência sem um final definido, que fosse desafiadora e colocasse à prova as habilidades do jogador, incentivando-o a alcançar pontuações cada vez mais altas. Para isso, foi implementado um sistema de pontuação com integração ao banco de dados do Firebase, responsável por armazenar os dados dos jogadores.</p>
+<p align="center">O jogo está publicado na plataforma Itch.io e pode ser acessado <a href="https://jontah.itch.io/spaceshooter">clicando aqui</a>.</p>
 
 <h2 align="center">Efeitos e funções</h2>
 
 <p align="center">A fim de tornar a gameplay mais dinâmica e divertida, foram adicionadas ao jogo algumas funcionalidades e efeitos como:</p>
 <p align="center">
   <ul>
-    <li>Spawn exponencial e aleatório de naves</li>
+    <li>Spawn aleatório de inimigos</li>
     <li>Naves destruídas explodem gerando partículas e causando um tremor na tela</li>
-    <li>Surgimento ocasional de orbes pela tela que, quando atingidos, causarão um flash e destruírão todos os inimigos</li>
-    <li>Naves inimigas possuem atributos diferentes, sendo a maior delas mais resistente e a menor mais rápida, movimentando-se de forma única</li>
-    <li>Um escudo pessoal se carrega ao durante o jogo, que pode ser ativado protegendo o jogador</li>
+    <li>Surgimento ocasional de orbes que, quando atingidos, causam um flash e destroem todos os inimigos</li>
+    <li>Naves inimigas possuem características distintas, desde a movimentação até a resistência</li>
+    <li>Escudo de proteção que se recarrega durante o jogo</li>
+    <li>Aumento progressivo na velocidade dos inimigos</li>
+    <li>Placar que exibe a pontuação e o nível atual do jogador</li>
+    <li>Um ranking de melhores pontuações</li>
   </ul>
 </p>
 
@@ -33,8 +37,8 @@ Está publicado no site do Itch.io para que qualquer um jogue. Pode ser acessado
 
 <h2 align="center">Assets/Sprites 🚀</h2>
 
-<p align="center">Durante o desenvolvimento do projeto, foram utilizados diversos modelos para representação de naves, efeitos, partículas, cenário e HUD, todos esses feitos à mão.
-<br>Alguns deles:</br>
+<p align="center">Durante o desenvolvimento do projeto, foram utilizados diversos modelos para representação de naves, efeitos, partículas, cenário e HUD, todos eles feitos à mão.
+<p align="center">Alguns deles:</p>
 </p>
 <table>
   <tr>
@@ -42,17 +46,17 @@ Está publicado no site do Itch.io para que qualquer um jogue. Pode ser acessado
     <td><img src="Assets/enemy2.png" width="300"></td>
     <td><img src="Assets/player_shield.png" width="300"></td>
   </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+  <tr align="center">
+    <td>Nave do Jogador</td>
+    <td>Nave Inimiga</td>
+    <td>Escudo</td>
   </tr>
 </table>
 
 
 <h2 align="center">Prints 🚀</h2>
 
-<p align="center">Abaixo estão algumas imagens que mostram um pouco sobre o desenvolvimento e funcionamento do jogo, além também do Banco de dados e sua configuração.</p>
+<p align="center">Abaixo estão algumas imagens que mostram um pouco do desenvolvimento e funcionamento do jogo, além também do Banco de dados e sua configuração.</p>
 
 <h3 align="center">Jogo</h3>
   <div align="center">
