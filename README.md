@@ -2,19 +2,19 @@
 <p align="center"><img src="Prints/gifGame.gif" width="500">
 <br>Jogo: https://jontah.itch.io/spaceshooter </br></p>
 
-<h2 align="center">Como jogar 🚀</h2>
+<h2 align="center">Como jogar 🕹</h2>
 
 <p align="center">Movimente e atire com sua nave. Seja ágil! Não deixe que as naves inimigas se aproximem. Destrua-as!</p>
 <p align="center">Mova-se através das setas direcionais e utilize o mouse para atirar e ativar seu escudo.</p>
 
-<h2 align="center">Sobre o jogo 🚀</h2>
+<h2 align="center">Sobre o jogo 🎯</h2>
 
 <p align="center">Este jogo foi desenvolvido como parte de um projeto acadêmico para o 1º semestre do curso de Sistemas de Informação do Uni-FACEF. Utilizou-se a versão gratuita do Construct 3, uma plataforma online voltada ao desenvolvimento, programação e publicação de jogos 2D. 
 <p align="center">O objetivo do jogo é simples: sobreviver o maior tempo possível sem permitir que os inimigos alcancem você.</p>
 <p align="center">A proposta era criar uma experiência sem um final definido, que fosse desafiadora e colocasse à prova as habilidades do jogador, incentivando-o a alcançar pontuações cada vez mais altas. Para isso, foi implementado um sistema de pontuação com integração ao banco de dados do Firebase, responsável por armazenar os dados dos jogadores.</p>
 <p align="center">O jogo está publicado na plataforma Itch.io e pode ser acessado <a href="https://jontah.itch.io/spaceshooter">clicando aqui</a>.</p>
 
-<h2 align="center">Efeitos e funções</h2>
+<h2 align="center">Efeitos e funções 🧨</h2>
 
 <p align="center">A fim de tornar a gameplay mais dinâmica e divertida, foram adicionadas ao jogo algumas funcionalidades e efeitos como:</p>
 <p align="center">
@@ -30,13 +30,13 @@
   </ul>
 </p>
 
-<h2 align="center">Firebase 🚀</h2>
+<h2 align="center">Firebase 🔥</h2>
 
 <p align="center">Integrado ao Firebase, o jogo utiliza dos recursos de armazenamento e sincronização de dados em tempo real para coletar a pontuação do jogador, possibilitando o registro com seu nome no Ranking de pontuações. O envio e recebimento é feito através da função AJAX disponível no Construct, que permite ao jogo solicitar e enviar informações para outras páginas da web.</p>
 
 
 
-<h2 align="center">Assets/Sprites 🚀</h2>
+<h2 align="center">Assets/Sprites 🛸</h2>
 
 <p align="center">Durante o desenvolvimento do projeto, foram utilizados diversos modelos para representação de naves, efeitos, partículas, cenário e HUD, todos eles feitos à mão.
 <p align="center">Alguns deles:</p>
@@ -55,7 +55,7 @@
 </table>
 
 
-<h2 align="center">Prints 🚀</h2>
+<h2 align="center">Prints 👾</h2>
 
 <p align="center">Abaixo estão algumas imagens que mostram um pouco do desenvolvimento e funcionamento do jogo, além também do Banco de dados e sua configuração.</p>
 
