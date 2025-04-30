@@ -4,7 +4,7 @@
 
 <h2 align="center">Como jogar 🚀</h2>
 
-<p align="center">Movimente e atire com sua nave. Seja ágil! Não permita que as naves inimigas cheguem até você. Destrua-as.</p>
+<p align="center">Movimente e atire com sua nave. Seja ágil! Não deixe que as naves inimigas se aproximem. Destrua-as!</p>
 <p align="center">Mova-se através das setas direcionais e utilize o mouse para atirar e ativar seu escudo.</p>
 
 <h2 align="center">Sobre o jogo 🚀</h2>
